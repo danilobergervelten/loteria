@@ -1,0 +1,16 @@
+c:\users\danilo\documents\visual studio 2015\Projects\Loteria\Loteria\bin\Debug\Loteria.exe.config
+c:\users\danilo\documents\visual studio 2015\Projects\Loteria\Loteria\bin\Debug\Loteria.exe
+c:\users\danilo\documents\visual studio 2015\Projects\Loteria\Loteria\bin\Debug\Loteria.pdb
+c:\users\danilo\documents\visual studio 2015\Projects\Loteria\Loteria\obj\Debug\Loteria.csprojResolveAssemblyReference.cache
+c:\users\danilo\documents\visual studio 2015\Projects\Loteria\Loteria\obj\Debug\Loteria.exe
+c:\users\danilo\documents\visual studio 2015\Projects\Loteria\Loteria\obj\Debug\Loteria.pdb
+F:\Arquivos\Loteria\Loteria\bin\Debug\Loteria.exe.config
+F:\Arquivos\Loteria\Loteria\obj\Debug\Loteria.exe
+F:\Arquivos\Loteria\Loteria\obj\Debug\Loteria.pdb
+C:\Users\danilo.velten\Desktop\Avaliação\Loteria\obj\Debug\Loteria.csprojResolveAssemblyReference.cache
+C:\Users\danilo.velten\Desktop\Avaliação\Loteria\obj\Debug\Loteria.csproj.CoreCompileInputs.cache
+C:\Users\danilo.velten\Desktop\Avaliação\Loteria\obj\Debug\Loteria.exe
+C:\Users\danilo.velten\Desktop\Avaliação\Loteria\obj\Debug\Loteria.pdb
+C:\Users\danilo.velten\Desktop\Avaliação\Loteria\bin\Debug\Loteria.exe.config
+C:\Users\danilo.velten\Desktop\Avaliação\Loteria\bin\Debug\Loteria.exe
+C:\Users\danilo.velten\Desktop\Avaliação\Loteria\bin\Debug\Loteria.pdb
